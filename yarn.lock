@@ -2024,10 +2024,10 @@
     tweetnacl "^1.0.0"
     ws "^7.0.0"
 
-"@solana/web3.js@^1.11.0", "@solana/web3.js@^1.12.0", "@solana/web3.js@^1.17.0", "@solana/web3.js@^1.21.0", "@solana/web3.js@^1.9.1", "@solana/web3.js@^1.92.1":
-  version "1.92.1"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.92.1.tgz#0c0fef31bbb20590ea5dfb63a578e5dfc4a111f1"
-  integrity sha512-72hytgOHfJLbvKT0+HRuFUhxxZpCnlo4zFDt37UHPel1DJbgqGOWo3xUf3VEPRWBvSRv0EH15g8MGatdj1PO9g==
+"@solana/web3.js@^1.11.0", "@solana/web3.js@^1.12.0", "@solana/web3.js@^1.17.0", "@solana/web3.js@^1.21.0", "@solana/web3.js@^1.9.1", "@solana/web3.js@^1.92.2":
+  version "1.92.2"
+  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.92.2.tgz#49760e887b31e309543668e81e1fa60f53a3e34e"
+  integrity sha512-dk26IHhtKyBszzsSzAuh6Lj2Z6guGlmdzkBjsOTvMmU/BiZTs5riNb+3eq56zXNLK3qvaMHAvVQPGwi9Po6qZQ==
   dependencies:
     "@babel/runtime" "^7.24.6"
     "@noble/curves" "^1.4.0"
